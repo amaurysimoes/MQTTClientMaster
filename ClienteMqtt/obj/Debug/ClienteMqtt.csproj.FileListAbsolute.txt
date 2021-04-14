@@ -1,0 +1,10 @@
+C:\Temp2\ClientMQtt_CSharp\ClienteMqtt\bin\Debug\ClienteMqtt.exe.config
+C:\Temp2\ClientMQtt_CSharp\ClienteMqtt\bin\Debug\ClienteMqtt.exe
+C:\Temp2\ClientMQtt_CSharp\ClienteMqtt\bin\Debug\ClienteMqtt.pdb
+C:\Temp2\ClientMQtt_CSharp\ClienteMqtt\obj\Debug\ClienteMqtt.csprojAssemblyReference.cache
+C:\Temp2\ClientMQtt_CSharp\ClienteMqtt\obj\Debug\ClienteMqtt.Form1.resources
+C:\Temp2\ClientMQtt_CSharp\ClienteMqtt\obj\Debug\ClienteMqtt.Properties.Resources.resources
+C:\Temp2\ClientMQtt_CSharp\ClienteMqtt\obj\Debug\ClienteMqtt.csproj.GenerateResource.cache
+C:\Temp2\ClientMQtt_CSharp\ClienteMqtt\obj\Debug\ClienteMqtt.csproj.CoreCompileInputs.cache
+C:\Temp2\ClientMQtt_CSharp\ClienteMqtt\obj\Debug\ClienteMqtt.exe
+C:\Temp2\ClientMQtt_CSharp\ClienteMqtt\obj\Debug\ClienteMqtt.pdb
